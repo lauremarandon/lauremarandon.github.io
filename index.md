@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam gravida orci ut
 
 Donec imperdiet lectus id justo tristique pellentesque. Donec diam dolor, aliquet sed neque non, egestas blandit quam. Praesent bibendum ex at mauris rutrum, id ultrices mauris volutpat. Morbi a sapien risus. Donec ut sollicitudin nunc. Donec sit amet neque gravida velit volutpat pharetra fermentum in ex. Duis quis mauris quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
 
-Contact: [laure@coalescence-coaching.com](mailto:laure@coalescence-coaching.com)
+Contact: [contact@coalescence-coaching.com](mailto:contact@coalescence-coaching.com)
